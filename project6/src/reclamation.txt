@@ -1,0 +1,3 @@
+2525 0123 haffar chayma 0 connexion_faible 31 12 2021 0 1
+1233 5555 haffar aziz 1 bruit 31 1 2021 0 2
+66 555 kkkk jjjj 1 eeee 1 1 2021 1 0
